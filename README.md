@@ -21,3 +21,9 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,java,html,css,bootstrap,js,angular" />
 </div>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Davi-S1va/Davi-S1va/output/github-contribution-grid-snake.svg" />
+
+</div>
