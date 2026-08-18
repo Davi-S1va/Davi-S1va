@@ -22,19 +22,7 @@
   <img src="https://skillicons.dev/icons?i=python,java,html,css,bootstrap,js,angular" />
 </div>
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Davi-S1va/Davi-S1va/gh-pages/dist/github-contribution-grid-snake-dark.svg"
-  />
 
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Davi-S1va/Davi-S1va/gh-pages/dist/github-contribution-grid-snake.svg"
-  />
-
-  <img
-    alt="GitHub Contribution Snake"
-    src="https://raw.githubusercontent.com/Davi-S1va/Davi-S1va/gh-pages/dist/github-contribution-grid-snake.svg"
-  />
-</picture>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Davi-S1va/Davi-S1va/refs/heads/gh-pages/github-contribution-grid-snake.svg">
+</div>
