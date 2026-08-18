@@ -18,7 +18,7 @@
 
 <h2 >🧮Linguagens</h2>
 
-<div align="center">
+<div>
   <img src="https://skillicons.dev/icons?i=python,java,html,css,bootstrap,js,angular" />
 </div>
 
