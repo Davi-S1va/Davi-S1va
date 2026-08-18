@@ -24,5 +24,5 @@
 
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Davi-S1va/Davi-S1va/refs/heads/gh-pages/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/Davi-S1va/Davi-S1va/refs/heads/gh-pages/github-contribution-grid-snake-dark.svg">
 </div>
