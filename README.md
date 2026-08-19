@@ -81,19 +81,7 @@ My goal is simple:
 
 ---
 
-<!-- 🧮 TECHNOLOGIES -->
-<div align="left">
 
-# 🧮 Technologies
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=python,java,html,css,bootstrap,js,angular,git,github,mysql,vscode" />
-
-</div>
-
-
-##
 
 <!-- 🤝 CONNECT -->
 
