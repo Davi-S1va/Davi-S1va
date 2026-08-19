@@ -14,7 +14,7 @@ Building my journey through technology, programming and cybersecurity.
 
   
 </tr>
-<br>
+
 <!-- 🚀 ABOUT ME -->
 <div align="center">
 
