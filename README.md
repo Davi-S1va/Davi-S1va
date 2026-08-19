@@ -7,8 +7,13 @@
 
 Building my journey through technology, programming and cybersecurity.
 
+<td align="center">
+  <img src="https://media.tenor.com/xX4PpM086w4AAAAm/star.webp" width="45" />
+</td>
 </div>
 
+  
+</tr>
 <br>
 <!-- 🚀 ABOUT ME -->
 <div align="center">
