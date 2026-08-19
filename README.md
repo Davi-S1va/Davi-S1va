@@ -103,29 +103,25 @@ My goal is simple:
 
 <tr>
 <td align="left">
+  
   <a href="https://github.com/Davi-S1va">
-    <img src="https://skillicons.dev/icons?i=github" width="50"/>
+    <img src="/assets/github_icon_bg.png" width="50"/>
   </a>
 </td>
 
 <td align="left">
   <a href="https://www.linkedin.com/in/davi-da-silva-nascimento-ba074a314/">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
+    <img src="./assets/linkedin_icon_bg.png" width="50"/>
   </a>
 </td>
 
 <td align="left">
   <a href="mailto:davisilvanascimento1207@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="50"  />
+    <img src="./assets/gmail_icon_bg.png" width="50"  />
   </a>
 </td>
 
-<td>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://media.tenor.com/lASlJqOnTwkAAAAm/spiderman-marvel-vs-capcom.webp" width="55" />
-</td>
-  
-</tr>
+
  
 </div>
 
