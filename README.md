@@ -18,7 +18,7 @@ Building my journey through technology, programming and cybersecurity.
 <!-- 🚀 ABOUT ME -->
 <div align="center">
 
-#  About Me
+# 🚀 About Me
 
 </div>
 
@@ -27,25 +27,23 @@ Building my journey through technology, programming and cybersecurity.
 <table align="center">
 <tr>
 
-<td width="50%" valign="middle">
+<!-- 🏆 Achievement -->
+<td width="60%" align="center" valign="middle">
 
-### 👨‍💻 Davi Here!
-
-I'm a technology enthusiast building my journey through **software development and cybersecurity**.
-
-I enjoy understanding how things work, solving problems and turning ideas into projects.
-
-Every project is an opportunity to learn something new, improve my skills and become a better developer.
-
-My goal is simple:
-
-> **Keep learning. Keep building. Keep evolving. 🚀**
+<img 
+  src="./assets/1787164651375.png"
+  width="600"
+/>
 
 </td>
 
-<td width="50%" align="center" valign="middle">
+<!-- 🎮 GIF -->
+<td width="40%" align="center" valign="middle">
 
-<img src="https://media1.tenor.com/m/VJLBFgo3FkoAAAAd/fish.gif" width="400"/>
+<img 
+  src="https://media1.tenor.com/m/VJLBFgo3FkoAAAAd/fish.gif" 
+  width="400"
+/>
 
 </td>
 
