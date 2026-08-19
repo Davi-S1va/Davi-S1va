@@ -96,7 +96,7 @@ Building my journey through technology, programming and cybersecurity.
 <td align="left">
   
   <a href="https://github.com/Davi-S1va">
-    &nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="/assets/github_icon_bg.png" width="50"/>
   </a>
 </td>
