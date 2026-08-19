@@ -58,6 +58,7 @@ Building my journey through technology, programming and cybersecurity.
 <tr>
 
 <td>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img 
     height="160em" 
     src="https://github-stats-extended.vercel.app/api?username=Davi-S1va&show_icons=true&theme=merko"
