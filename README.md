@@ -8,7 +8,7 @@
 Building my journey through technology, programming and cybersecurity.
 
 <td align="center">
-  <img src="https://media.tenor.com/xX4PpM086w4AAAAm/star.webp" width="45" />
+  <img src="https://media.tenor.com/xX4PpM086w4AAAAm/star.webp" width="30" />
 </td>
 </div>
 
