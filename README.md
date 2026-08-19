@@ -101,12 +101,14 @@ Building my journey through technology, programming and cybersecurity.
 </td>
 
 <td align="left">
+  &nbsp;
   <a href="https://www.linkedin.com/in/davi-da-silva-nascimento-ba074a314/">
     <img src="./assets/linkedin_icon_bg.png" width="50"/>
   </a>
 </td>
 
 <td align="left">
+  &nbsp;
   <a href="mailto:davisilvanascimento1207@gmail.com">
     <img src="./assets/gmail_icon_bg.png" width="50"  />
   </a>
