@@ -60,21 +60,22 @@ Building my journey through technology, programming and cybersecurity.
 <td>
   <img 
     height="160em" 
-    src="https://github-stats-extended.vercel.app/api?username=Davi-S1va&show_icons=true&theme=cobalt"
+    src="https://github-stats-extended.vercel.app/api?username=Davi-S1va&show_icons=true&theme=merko"
   />
 </td>
 
 <td>
   <img 
     height="160em" 
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Davi-S1va&layout=compact&langs_count=15&theme=cobalt"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Davi-S1va&layout=compact&langs_count=15&theme=merko"
   />
 </td>
 
 <td>
+  &nbsp;&nbsp;
   <img 
-    src="https://media.tenor.com/DKJvTPspsZYAAAAi/dark-gengar.gif" 
-    width="140"
+    src="https://media.tenor.com/DrdU6bRAfusAAAAm/bulbasaur-pokemon.webp" 
+    width="120"
   />
 </td>
 
