@@ -3,9 +3,6 @@
 <div align="center">
 
 # Hi 👋, I'm Davi
-
-### Developer in Training
-
 > *Just Code. Learn. Build. Repeat.* 🚀
 
 Building my journey through technology, programming and cybersecurity.
