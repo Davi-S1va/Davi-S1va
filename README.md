@@ -3,7 +3,7 @@
 <div align="center">
 
 # Hi 👋, I'm Davi
-> *Just Code. Learn. Build. Repeat.* 🚀
+> *Just Code. Learn. Build. Repeat.* 
 
 Building my journey through technology, programming and cybersecurity.
 
@@ -18,7 +18,7 @@ Building my journey through technology, programming and cybersecurity.
 <!-- 🚀 ABOUT ME -->
 <div align="center">
 
-# 🚀 About Me
+#  About Me
 
 </div>
 
