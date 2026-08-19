@@ -92,12 +92,12 @@ My goal is simple:
 
 <div align="left">
 
-# 🤝 Connect
-
+<h2> Connect</h2>
 <tr>
 <td align="left">
   
   <a href="https://github.com/Davi-S1va">
+    &nbsp;
     <img src="/assets/github_icon_bg.png" width="50"/>
   </a>
 </td>
