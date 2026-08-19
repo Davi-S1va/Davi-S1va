@@ -94,9 +94,8 @@ Building my journey through technology, programming and cybersecurity.
 <h2> Connect</h2>
 <tr>
 <td align="left">
-  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Davi-S1va">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="/assets/github_icon_bg.png" width="50"/>
   </a>
 </td>
