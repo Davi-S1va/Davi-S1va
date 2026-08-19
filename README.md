@@ -116,12 +116,3 @@ My goal is simple:
 </div>
 
 
-<!-- 🐍 CONTRIBUTION SNAKE -->
-<div>
-
-<img 
-  src="https://raw.githubusercontent.com/Davi-S1va/Davi-S1va/refs/heads/gh-pages/github-contribution-grid-snake-dark.svg"
-  alt="GitHub Contribution Snake"
-/>
-
-</div>
