@@ -32,7 +32,7 @@ Building my journey through technology, programming and cybersecurity.
 
 <img 
   src="./assets/1787164651375.png"
-  width="605"
+  width="607"
 />
 
 </td>
@@ -42,7 +42,7 @@ Building my journey through technology, programming and cybersecurity.
 
 <img 
   src="https://media1.tenor.com/m/sD7-vWAqyp0AAAAC/finn-y-jake.gif" 
-  width="350"
+  width="340"
 />
 
 </td>
