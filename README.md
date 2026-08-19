@@ -22,7 +22,7 @@ Building my journey through technology, programming and cybersecurity.
 
 </div>
 
-<br>
+
 
 <table align="center">
 <tr>
