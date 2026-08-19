@@ -32,7 +32,7 @@ Building my journey through technology, programming and cybersecurity.
 
 <img 
   src="./assets/1787164651375.png"
-  width="600"
+  width="605"
 />
 
 </td>
