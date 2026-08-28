@@ -41,7 +41,7 @@ Building my journey through technology, programming and cybersecurity.
 <td width="40%" align="center" valign="middle">
 
 <img 
-  src="https://media1.tenor.com/m/sD7-vWAqyp0AAAAC/finn-y-jake.gif" 
+  src="./assets/fin-y-jake-gif.gif" 
   width="272"
 />
 
