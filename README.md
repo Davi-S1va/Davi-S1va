@@ -2,18 +2,11 @@
 <!-- 👋 INTRODUCTION -->
 <div align="center">
 
-# Hi 👋, I'm Davi
-> *Just Code. Learn. Build. Repeat.* 
-
+# Hi, I'm Davi <img src="https://media.tenor.com/uX1jpz5E4lcAAAAi/bmo-bounce.gif" width="40" />
+ 
 Building my journey through technology, programming and cybersecurity.
 
-<td align="center">
-  <img src="https://media.tenor.com/xX4PpM086w4AAAAm/star.webp" width="30" />
-</td>
-</div>
-
-  
-</tr>
+ >*Just Code. Learn. Build. Repeat.* 
 
 <!-- 🚀 ABOUT ME -->
 <div align="center">
